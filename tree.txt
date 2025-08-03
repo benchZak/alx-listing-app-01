@@ -1,0 +1,43 @@
+.
+├── alx-listing-app-00
+├── components
+│   ├── layout
+│   │   ├── Footer.tsx
+│   │   ├── Header.tsx
+│   │   └── Layout.tsx
+│   └── property
+│       ├── BookingSection.tsx
+│       ├── PropertyDetail.tsx
+│       └── ReviewSection.tsx
+├── constants
+│   └── index.ts
+├── eslint.config.mjs
+├── interfaces
+│   └── index.ts
+├── next.config.ts
+├── package.json
+├── package-lock.json
+├── pages
+│   ├── api
+│   │   └── hello.ts
+│   ├── _app.tsx
+│   ├── _document.tsx
+│   ├── [id].tsx
+│   └── index.tsx
+├── postcss.config.js
+├── postcss.config.mjs
+├── public
+│   ├── favicon.ico
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── README.md
+├── styles
+│   └── globals.css
+├── tailwind.config.js
+├── tree.txt
+└── tsconfig.json
+
+11 directories, 30 files
